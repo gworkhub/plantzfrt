@@ -1,0 +1,10 @@
+{
+    "VISION_TRAINING_KEY": "4ca3453b156c40c6bec7f90ef2f69fdf",
+    "VISION_TRAINING_ENDPOINT": "https://planthealth002.cognitiveservices.azure.com/",
+    "VISION_PREDICTION_KEY": "8924c9c66a994e96a02a46c0001f62d4",
+    "VISION_PREDICTION_ENDPOINT": "https://planthealth002-prediction.cognitiveservices.azure.com/",
+    "VISION_PREDICTION_RESOURCE_ID": "/subscriptions/066f513c-ff9b-4752-b213-d2944ba47c26/resourceGroups/planttest/providers/Microsoft.CognitiveServices/accounts/planthealth002-Prediction",
+    "projectId": "3431e489-21d1-4fdc-b7c8-cbca11bb5d50",
+    "publishIterationName": "plantModel"
+  }
+  
