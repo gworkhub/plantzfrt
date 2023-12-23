@@ -21,7 +21,7 @@ Purpose and Functionality:
 The project's purpose aligns perfectly with the problem statement in agriculture: the need for efficient disease detection to ensure better crop yields and food security. Its basic functionality involves a simple yet powerful user interface allowing image uploads, AI-driven disease analysis, and based on analysis giving the solution to control and prevent it. This functionality directly addresses the identified problem by offering an accessible and intuitive solution.
 
 # Tech Used: 
-Microsoft azure (App service, Azure cosmos DB, Azure AI custom vision), Vs Code, HTML, CSS, Javascript
+Microsoft azure (App service, Azure cosmos DB, Azure AI custom vision), Vs Code,Node js, HTML, CSS, Javascript
 
 # Screenshots:
 
