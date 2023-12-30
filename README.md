@@ -30,13 +30,13 @@ Azure App Service is a fully managed platform for building, deploying, and scali
 ![frtss3](https://github.com/gworkhub/plantzfrt/assets/150426042/fc10ecad-fd86-4bdd-b165-d4ac6f102b4a)
 
 
-3) Azure Cosmos DB
+2) Azure Cosmos DB
 Azure Cosmos DB is a globally distributed, multi-model database service provided by Azure. It offers a range of NoSQL database capabilities, including document, key-value, graph, and column-family data models. It ensures high availability, low latency, and consistency at a global scale. Cosmos DB allows developers to elastically scale throughput and storage across various geographical regions while maintaining data integrity and providing comprehensive SLAs.
 
 ![frtss2](https://github.com/gworkhub/plantzfrt/assets/150426042/69670f21-c1e0-47ca-96b0-4f061e02df22)
 
 
-5) Azure AI Custom Vision
+3) Azure AI Custom Vision
 Azure AI Custom Vision is a service that empowers developers to build and deploy custom image classification models without requiring extensive machine learning expertise. It provides a user-friendly interface to create, train, and deploy custom vision models using pre-labelled images. Custom Vision uses state-of-the-art machine learning algorithms to train models that can accurately classify and detect objects within images. It allows integration with applications, enabling them to make predictions based on the trained models for image classification tasks.
 
 ![frtss1](https://github.com/gworkhub/plantzfrt/assets/150426042/162340ce-f35a-4017-afaf-1f7a5e1eff0c)
