@@ -41,7 +41,13 @@ Azure Cosmos DB is a globally distributed, multi-model database service provided
 
 
 4) Azure AI Custom Vision : 
-Azure AI Custom Vision is a service that empowers developers to build and deploy custom image classification models without requiring extensive machine learning expertise. It provides a user-friendly interface to create, train, and deploy custom vision models using pre-labelled images. Custom Vision uses state-of-the-art machine learning algorithms to train models that can accurately classify and detect objects within images. It allows integration with applications, enabling them to make predictions based on the trained models for image classification tasks.
+Azure AI Custom Vision is an Azure service focused on creating and deploying specialized machine learning models for image classification tasks, such as detecting plant diseases. This tool simplifies model creation by allowing users to train models with labeled images, enabling accurate identification of various plant diseases based on distinct visual patterns.
+
+Functionality: Custom Vision's user-friendly interface facilitates easy uploading, labeling, and training of datasets. Once trained, the models can be seamlessly integrated into applications, providing real-time predictions for plant disease identification from uploaded images.
+
+Adaptability: The service supports continuous improvement by allowing retraining with new data, enhancing the model's accuracy over time. This adaptability enables the model to handle diverse scenarios and improve its performance in detecting and categorizing plant diseases.
+
+Utilizing Azure AI Custom Vision streamlines plant disease detection on your website, providing a user-friendly and accurate solution for identifying plant issues based on uploaded images.
 
 ![frtss1](https://github.com/gworkhub/plantzfrt/assets/150426042/162340ce-f35a-4017-afaf-1f7a5e1eff0c)
 
