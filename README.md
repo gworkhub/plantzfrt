@@ -23,6 +23,27 @@ The project's purpose aligns perfectly with the problem statement in agriculture
 # Tech Used: 
 Microsoft azure (App service, Azure cosmos DB, Azure AI custom vision), Vs Code,Node js, HTML, CSS, Javascript
 
+# About Microsoft Azure Services Used
+1) App Service
+Azure App Service is a fully managed platform for building, deploying, and scaling web applications. It supports various programming languages and frameworks, enabling easy deployment of web apps without managing infrastructure. It provides features like automatic scaling, continuous deployment, and integration with DevOps tools for efficient app development and deployment.
+
+![frtss3](https://github.com/gworkhub/plantzfrt/assets/150426042/fc10ecad-fd86-4bdd-b165-d4ac6f102b4a)
+
+
+3) Azure Cosmos DB
+Azure Cosmos DB is a globally distributed, multi-model database service provided by Azure. It offers a range of NoSQL database capabilities, including document, key-value, graph, and column-family data models. It ensures high availability, low latency, and consistency at a global scale. Cosmos DB allows developers to elastically scale throughput and storage across various geographical regions while maintaining data integrity and providing comprehensive SLAs.
+
+![frtss2](https://github.com/gworkhub/plantzfrt/assets/150426042/69670f21-c1e0-47ca-96b0-4f061e02df22)
+
+
+5) Azure AI Custom Vision
+Azure AI Custom Vision is a service that empowers developers to build and deploy custom image classification models without requiring extensive machine learning expertise. It provides a user-friendly interface to create, train, and deploy custom vision models using pre-labelled images. Custom Vision uses state-of-the-art machine learning algorithms to train models that can accurately classify and detect objects within images. It allows integration with applications, enabling them to make predictions based on the trained models for image classification tasks.
+
+![frtss1](https://github.com/gworkhub/plantzfrt/assets/150426042/162340ce-f35a-4017-afaf-1f7a5e1eff0c)
+
+
+By leveraging these Azure services together, the plant detection website is able to achieve a robust and scalable architecture with a managed platform for hosting, a globally distributed database for data storage, and a customized machine learning model for plant identification.
+
 # Screenshots:
 
 HOME PAGE:
